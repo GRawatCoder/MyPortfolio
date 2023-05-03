@@ -58,3 +58,11 @@ input{
     padding: 8px;
     font-size: var(--size-16);
 }
+
+.custom-button{
+    font-size: var(--size-16);
+    padding: var(--size-12);
+    background: var(--light-pink);
+    color: var(--light-white);
+    border-color: var(--light-pink);
+}
