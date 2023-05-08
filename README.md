@@ -2,8 +2,8 @@
 
 # Portfolio Links
 
-gauravrawatportfolio-dev-ed.develop.my.site.com
-gauravrawatportfolio-dev-ed.develop.my.site.com/bmi
+- https://gauravrawatportfolio-dev-ed.develop.my.site.com
+- https://gauravrawatportfolio-dev-ed.develop.my.site.com/bmi
 
 # Salesforce DX Project: Next Steps
 
