@@ -11,7 +11,7 @@
 }
 
 .app{
-    padding-top: var(--size-32);
+    /*padding-top: var(--size-32);*/
     min-height: 100vh;
     background-image: url(/sfsites/c/resource/BmiAppBackground);
     background-repeat: no-repeat;
@@ -65,4 +65,9 @@ input{
     background: var(--light-pink);
     color: var(--light-white);
     border-color: var(--light-pink);
+}
+
+.result-value{
+    color:var(--light-blue);
+    font-size: 30px;
 }
